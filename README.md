@@ -40,12 +40,6 @@ Used the **Customer Segmentation** dataset from Kaggle:
 
 ---
 
-## 📈 Cluster Visualization
-
-![Cluster Plot](your-screenshot.png) <!-- Replace this with actual image name or link -->
-
----
-
 ## ✅ Result
 
 Successfully segmented customers into 5 distinct clusters based on their spending habits and income.  
@@ -55,7 +49,7 @@ This task enhanced my understanding of **unsupervised learning** and **customer 
 
 ## 🔗 LinkedIn Post
 
-👉 *[Add your LinkedIn post link here]*
+👉 *[https://www.linkedin.com/in/saran-kumar-s-b45b75317/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BjzL3eUenRU%2BfbEwFfV2AGg%3D%3D]*
 
 ---
 
